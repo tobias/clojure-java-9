@@ -1,4 +1,4 @@
-The [issues]() on this repository are intended to be a central list of
+The [issues](/issues) on this repository are intended to be a central list of
 issues that Clojure and Clojure libraries have with Java 9.
 
 If you know of/run into a problem with a Clojure library that you
